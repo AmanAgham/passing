@@ -1,0 +1,19 @@
+During creating new Spring Starter
+Dependencies should be selected
+1. Spring Boot DevTools
+2. Lombok
+3. Validation
+4. Spring Data JPA
+5. MySQL Driver
+6. Spring Web
+
+
+1)src/main/resources
+->Change Database name, username, password
+
+2)src
+->Inside...pom.xml....Add Swagger UI inside dependency
+
+3)src/main/java
+->  a. Add pojo classes
+    b. 
